@@ -1,102 +1,74 @@
 # ⚡ GRYHAT Cybersecurity
 
-> **Security-First. Marketing Second. Results Always.**
+> **AI-native. Security-first. Results always.**
 
-We are an AI-native cybersecurity and marketing technology company headquartered in Southern California. We build tools, platforms, and systems that protect and grow the businesses that can't afford the enterprise version of either — and we never sell anyone something they don't need.
-
----
-
-## 🛡️ What We Build
-
-| Product | Description |
-|---|---|
-| **Citadel CyberGuardian** | WiFi security app with 500K+ installs. Real-time network threat detection for consumers and SMBs. |
-| **SENTRY** | AI dual-node network defense. Mobile SENTRY roams with you. Local SENTRY guards the fort. They debrief each other the moment you walk in the door. |
-| **YouFeelingLucky.com** | AI-native marketing platform. We run our own newsletter through it. 8.58% click rate. Industry average is 2–3%. |
-| **ReferralGenius.AI** | Referral marketing automation. Turn your best customers into your best salespeople. |
-| **The Debrief** | Weekly cybersecurity + AI newsletter. Educational first. Never pushy. Written for the people doing the work. |
+GRYHAT is an AI-native cybersecurity and marketing technology company in Orange County, California. We went AI-first in 2023: our operations run on a fleet of agents, we build the controls that keep those agents accountable, and we bring the same discipline to clients who can't afford the enterprise version of either security or marketing. We never sell anyone something they don't need.
 
 ---
 
-## 🧠 Our Philosophy
+## 🛡️ What we build
 
-We will never sell you something you don't need.
-
-Our job is to share the wealth — and the wealth is knowledge. We educate our customers, make them aware of real-world needs, and help them understand exactly what they need and what they don't — even if they end up buying it somewhere else.
-
-Every customer is a seminar.
-Every employee is paired with AI on day one.
-Every hire is grown into a process engineer.
-We always give more than what you paid for. Every single time.
-
-This isn't a positioning statement. It's just the way we move.
+| Product                         | What it is                                                                                                                                                                                                                                                |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Citadel VPN & WiFi Security** | iOS app, live on the App Store. WireGuard tunnel plus a WiFi threat scanner. Zero data collection by design.                                                                                                                                              |
+| **GRYHAT Sentinel**             | Four-layer managed security: encrypted tunnel mesh, autonomous EDR, MDR with a cyber-insurance backstop, and human-layer awareness training. One stack, one accountable party.                                                                            |
+| **IAiGACB**                     | A free, community-built licensing framework for AI. Systems tiered by capability, operators licensed by skill, every deployed AI serialized to the license that bought it. [Read it](https://github.com/TheGRYHAT/iaigacb-framework). We only started it. |
+| **YouFeelingLucky.com**         | AI-native marketing for Orange County businesses. We run our own newsletter through it: 8.58% click rate against an industry average of 2–3%.                                                                                                             |
+| **ReferralGenius.AI**           | Digital business card with built-in referral tracking. Live on the App Store. Turn your best customers into your best salespeople.                                                                                                                        |
+| **The Debrief**                 | Weekly cybersecurity + AI newsletter. Educational first, never pushy, written for the people doing the work.                                                                                                                                              |
 
 ---
 
-## ⚙️ Tech Stack
+## 🤖 How AI-native actually works here
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-![Core ML](https://img.shields.io/badge/Core_ML-0071E3?style=flat&logo=apple&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+- **Agents do the first draft, humans own the outcome.** Every agent is bound to a named human operator. Every action carries both identities. The rules are enforced in the database, not in a policy document. Born from a real incident, now a control.
+- **We run what we sell.** A 14-agent platform on our own hardware: 1.4 billion tokens, 730 tasks in 90 days, model-agnostic across local and frontier models, every task logged for cost, outcome, and attribution, with a failure rate we track and drive down.
+- **We audit our own AI harder than anyone asks us to.** When we deployed an AI receptionist, we read every production transcript before offering it to a client. The failure modes we found became requirements. The lessons are public in the framework's field notes.
+- **Sensitive data never leaves hardware we control.** That's a CMMC and SOC 2 boundary decision, not a cost decision.
 
 ---
 
-## 📊 By The Numbers
+## 🧠 How we work
 
-- **804** contributions in the last year
-- **72** repositories and growing
-- **500,000+** Citadel CyberGuardian installs
-- **6,000+** warm network contacts
-- **8.58%** newsletter click rate (industry avg: 2–3%)
-- **CMMC Level 1** certified reference client on record
+We will never sell you something you don't need. Our job is to share the wealth, and the wealth is knowledge. Every customer is a seminar. Every person on the team is paired with AI from day one and grown into a process engineer. We always give more than you paid for.
 
----
+We call our people **Human-in-the-Loop Operators**: people who understand AI well enough to direct it and have enough judgment to know when not to trust it. We're building the school, the tools, and the playbook around that model.
 
-## 🤝 Who We Work With
-
-We serve Southern California businesses that need real cybersecurity and real marketing — not enterprise bloat, not vendor oversell.
-
-**Current clients include:**
-- OCS — CMMC compliance reference client
-- Better Power Project
-- Hollywood Sports
-- YEBO Group
-- And growing
+If you're a cybersecurity graduate who wants to own something bigger than a job, come find us.
 
 ---
 
-## 👾 Human in the Loop
+## 📊 By the numbers
 
-Every person on our team is paired with AI from day one. We don't replace humans with AI — we build humans who are better because of it. We call them **Human in the Loop Operators** — people who understand AI well enough to direct it and have enough judgment to know when not to trust it.
+- **1,681** contributions in the last year, from a human and his AI partner
+- **100+** repositories, most private by design
+- **27** years of security and infrastructure behind the practice
+- **8.58%** newsletter click rate (industry average: 2–3%)
+- **CMMC Level 2** enclave delivered in Azure Government; Level 1 reference client on record
 
-We're building the school, the tools, and the franchise system around this model before anyone else figures out it exists.
+---
 
-If you're a cybersecurity graduate student who wants to own something bigger than a job — come find us.
+## 🤝 Who we work with
+
+Southern California businesses and DoD contractors that need real security and real marketing: not enterprise bloat, not vendor oversell. Our clients are named in our contracts, not on our GitHub.
 
 ---
 
 ## 🌐 Links
 
-- 🔐 [gryhat.com](https://gryhat.com) — Cybersecurity services
-- 🏰 [thecitadelcyber.com](https://thecitadelcyber.com) — Citadel CyberGuardian app
-- 🍀 [youfeelinglucky.com](https://youfeelinglucky.com) — AI marketing platform
-- 📰 [The Debrief Newsletter](https://gryhat.com/need2know) — Weekly intel drop
-- 📍 Orange County, Southern California
+- 🔐 [gryhat.com](https://gryhat.com) — cybersecurity services
+- 🏰 [citadelcyber.ai](https://citadelcyber.ai) — Citadel VPN & WiFi Security
+- 🍀 [youfeelinglucky.com](https://youfeelinglucky.com) — AI-native marketing
+- 📜 [IAiGACB framework](https://github.com/TheGRYHAT/iaigacb-framework) — free AI licensing standard
+- 📰 [The Debrief](https://gryhat.com/need2know) — weekly intel drop
+- 📍 Orange County, California
 
 ---
 
 ## 📬 Contact
 
-**Andy Vaca** — Founder & Gold Leader  
+**Andy Vaca** — Founder & Gold Leader
 [gryhat.com](https://gryhat.com) · [LinkedIn](https://linkedin.com/in/andyvaca)
-
----
 
 *Built in Southern California. Protecting the little guy since day one.*
 
