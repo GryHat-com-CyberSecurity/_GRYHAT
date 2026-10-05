@@ -62,6 +62,7 @@ Southern California businesses and DoD contractors that need real security and r
 - 📜 [IAiGACB framework](https://github.com/TheGRYHAT/iaigacb-framework) — free AI licensing standard
 - 📰 [The Debrief](https://gryhat.com/need2know) — weekly intel drop
 - ▶️ [YouTube](https://www.youtube.com/@TheCitadelCyber) — the clips, 28 and counting
+- 🎬 [Made with AI](https://gryhat-com-cybersecurity.github.io/made-with-ai/) — our public gallery of AI-generated video work
 - 📍 Orange County, California
 
 ---
